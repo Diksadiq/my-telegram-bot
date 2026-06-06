@@ -2,8 +2,8 @@ import os
 import requests
 import time
 
-TOKEN = os.getenv("TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+TOKEN = os.getenv("8677041196:AAHI1rDkBTFXqX9PGJzjQvmyEkIG4GgR2qo")
+CHAT_ID = os.getenv("7175085994")
 
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 
